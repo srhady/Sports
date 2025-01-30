@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id= tvg-name=Home Feed group-title=Sports, Home Feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium12/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=Away Feed group-title=Sports, Away Feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium13/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=Vioploy Sports 2 UK group-title=Sports, Vioploy Sports 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium550/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=NESN USA group-title=Sports, NESN USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium762/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=TSN3 group-title=Sports, TSN3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium113/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=ESPN 1 NL group-title=Sports, ESPN 1 NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium379/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=Vodofone Sport group-title=Sports, Vodofone Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium260/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=Sky Sport Mix DE group-title=Sports, Sky Sport Mix DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium557/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=Sky Sport Top Event DE group-title=Sports, Sky Sport Top Event DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium556/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=V Sport Premium Sweden group-title=Sports, V Sport Premium Sweden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium59/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name=Sport 5 Live Israel group-title=Sports, Sport 5 Live Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium146/index.m3u8
