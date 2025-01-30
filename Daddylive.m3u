@@ -1,5 +1,66 @@
 #EXTM3U
-#EXTINF:-1, Channel 1
-https://xyzdddd.mizhls.ru/lb/premium7/index.m3u8
-#EXTINF:-1, Channel 2
-https://xyzdddd.mizhls.ru/lb/premium445/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC (CH-1)" group-title="Sports", SSC (CH-1)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 USA (CH-758)" group-title="Sports", Fox Sports 2 USA (CH-758)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 (CH-886)" group-title="Sports", Sony Ten 2 (CH-886)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium886/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vodafone Sport (CH-260)" group-title="Sports", Vodafone Sport (CH-260)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium260/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sportdigital FUSSBALL DE (CH-571)" group-title="Sports", Sportdigital FUSSBALL DE (CH-571)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium571/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN1 DE (CH-426)" group-title="Sports", DAZN1 DE (CH-426)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV1 Portugal (CH-49)" group-title="Sports", Sport TV1 Portugal (CH-49)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium49/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2 Poland (CH-3)" group-title="Sports", Polsat Sport Premium 2 Poland (CH-3)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 2 Romania (CH-584)" group-title="Sports", Prima Sport 2 Romania (CH-584)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium584/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes (CH-643)" group-title="Sports", FOX Deportes (CH-643)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium643/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote Sport 3 Greece (CH-624)" group-title="Sports", Cosmote Sport 3 Greece (CH-624)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium624/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MAX Sport 4 Bulgaria (CH-475)" group-title="Sports", MAX Sport 4 Bulgaria (CH-475)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium475/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 Serbia (CH-101)" group-title="Sports", Sport Klub 1 Serbia (CH-101)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://cookiewebplay.xyz/"
+https://xyzdddd.mizhls.ru/lb/premium101/index.m3u8
