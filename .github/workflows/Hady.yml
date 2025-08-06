@@ -1,0 +1,44 @@
+name: Auto Update CricHD Playlist
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # প্রতি ২ ঘণ্টা পর পর চলবে
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium webdriver-manager pytz
+
+      - name: Run Scraper for CricHD
+        run: python scraper.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions-bot@github.com'
+          git add -A
+          # শুধুমাত্র পরিবর্তন থাকলেই কমিট করবে
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit."
+          else
+            git commit -m "✅ CricHD Playlist Updated"
+            git push
+          fi
+
